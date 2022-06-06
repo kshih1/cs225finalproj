@@ -1,0 +1,5 @@
+5446,"Qaanaaq Airport","Qaanaaq","Greenland","NAQ","BGQQ",77.4886016846,-69.3887023926,51,-4,"E","America/Thule","airport","OurAirports"
+10,"Thule Air Base","Thule","Greenland","THU","BGTL",76.5311965942,-68.7032012939,251,-4,"E","America/Thule","airport","OurAirports"
+5448,"Upernavik Airport","Upernavik","Greenland","JUV","BGUK",72.7901992798,-56.1305999756,414,-3,"E","America/Godthab","airport","OurAirports"
+5541,"Gods River Airport","Gods River","Canada","ZGI","CZGI",\N,-94.07859802246094,627,-6,"A","America/Winnipeg","airport","OurAirports"
+3,"Mount Hagen Kagamuga Airport","Mount Hagen","Papua New Guinea","HGU","AYMH",-5.826789855957031,144.29600524902344,5388,10,"U","Pacific/Port_Moresby","airport","OurAirports"

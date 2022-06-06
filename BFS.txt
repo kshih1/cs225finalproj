@@ -1,0 +1,5 @@
+source airport: 3
+
+airport 1 is 1 edges away from the source airport 
+airport 2 is 1 edges away from the source airport 
+airport 4 is 1 edges away from the source airport 
